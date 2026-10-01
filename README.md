@@ -4,10 +4,10 @@ A season-by-season plan for finishing the Community Center in Year 1 of Stardew 
 
 ## Before you start
 
-This plan assumes two settings from the **Advanced Options** when you create the save. You can't change them later.
+This plan assumes two [Advanced Options](https://stardewvalleywiki.com/Options#Advanced_Game_Options), which you pick from the wrench button on the character creation screen.
 
 - **Community Center Bundles: Normal.** It does **not** cover [Remixed Bundles](https://stardewvalleywiki.com/Remixed_Bundles), which swap in different items.
-- **Guarantee Year 1 Completable: on.** Red Cabbage Seeds aren't sold by Pierre until Year 2. With this option on, the [Traveling Cart](https://stardewvalleywiki.com/Traveling_Cart#Guaranteed_Red_Cabbage) is guaranteed to sell them on **one random visit** between Spring 7 and Winter 16 (the Night Market). Without it, Red Cabbage in Year 1 is down to luck at the cart.
+- **Guarantee Year 1 Completable: on.** Red Cabbage Seeds aren't sold by Pierre until Year 2. With this option on, the [Traveling Cart](https://stardewvalleywiki.com/Traveling_Cart#Guaranteed_Red_Cabbage) is guaranteed to sell them on **one random visit** between Spring 7 and Winter 16 (the Night Market). Without it, Red Cabbage in Year 1 is mostly down to luck at the cart.
 
 > 🥬 The guarantee only applies to that one cart visit, so don't skip a Friday or Sunday, and buy the seeds the first time you see them.
 
@@ -78,7 +78,7 @@ This plan assumes two settings from the **Advanced Options** when you create the
 
 ### Fruit trees
 
-Plant [Apple](https://stardewvalleywiki.com/Apple_Tree) and [Pomegranate](https://stardewvalleywiki.com/Pomegranate_Tree) saplings by **Summer 1** so they fruit from Fall 1. They take 28 days and need a clear 3×3 space.
+Plant [Apple](https://stardewvalleywiki.com/Apple_Tree) and [Pomegranate](https://stardewvalleywiki.com/Pomegranate_Tree) saplings by **Summer 1** so they're fruiting from the start of Fall. They take 28 days and need a clear 3×3 space.
 
 ### Quality Crops strategy (any 3 of the 4: 5 gold each of Parsnip, Melon, Pumpkin, Corn)
 
@@ -207,7 +207,7 @@ Every item the bundles need is listed here once, under the earliest season you c
 - [ ] ⚠️ [Sweet Pea](https://stardewvalleywiki.com/Sweet_Pea) — Summer Foraging
 - [ ] ⚠️ **[Fiddlehead Fern](https://stardewvalleywiki.com/Fiddlehead_Fern) — Chef's** ([Secret Woods](https://stardewvalleywiki.com/Secret_Woods) in Summer)
 - [ ] [Red Mushroom](https://stardewvalleywiki.com/Red_Mushroom) ×2 — Dye + Exotic (optional)
-- [ ] [Sea Urchin](https://stardewvalleywiki.com/Sea_Urchin) — Dye (east beach after the 300-wood bridge)
+- [ ] [Sea Urchin](https://stardewvalleywiki.com/Sea_Urchin) — Dye (all year in the tide pools east of the 300-wood bridge; on Summer 12–14 they also wash up on the main beach)
 
 **Crops**
 
@@ -311,9 +311,9 @@ Every item the bundles need is listed here once, under the earliest season you c
 
 **Foraging**
 
-- [ ] ⚠️ [Winter Root](https://stardewvalleywiki.com/Winter_Root) — Winter Foraging (till soil or dig artifact spots)
-- [ ] ⚠️ [Crystal Fruit](https://stardewvalleywiki.com/Crystal_Fruit) — Winter Foraging
-- [ ] ⚠️ [Snow Yam](https://stardewvalleywiki.com/Snow_Yam) — Winter Foraging (till soil or dig artifact spots)
+- [ ] [Winter Root](https://stardewvalleywiki.com/Winter_Root) — Winter Foraging (dig artifact spots, or till soil off the farm; Blue Slimes on Mine floors 41–79 drop it in any season)
+- [ ] [Crystal Fruit](https://stardewvalleywiki.com/Crystal_Fruit) — Winter Foraging (Dust Sprites on Mine floors 41–79 drop it in any season)
+- [ ] ⚠️ [Snow Yam](https://stardewvalleywiki.com/Snow_Yam) — Winter Foraging (dig artifact spots, or till soil off the farm)
 - [ ] ⚠️ [Crocus](https://stardewvalleywiki.com/Crocus) — Winter Foraging
 - [ ] [Nautilus Shell](https://stardewvalleywiki.com/Nautilus_Shell) — Field Research (beach in Winter; it is **not** the Nautilus Fossil)
 
