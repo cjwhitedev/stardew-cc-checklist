@@ -341,3 +341,7 @@ Every item the bundles need is listed here once, under the earliest season you c
 - Keep Kegs and Preserves Jars running on stored fruit. Tappers keep producing in Winter too.
 - Spend free days deep in the Mines and sell gems you don't need.
 - You can pay the smaller Vault bundles as soon as the Vault opens, so you don't have to save all 42,500g at once.
+
+---
+
+> 🤖 **AI disclaimer:** This guide was written with the help of an AI assistant. Most facts were checked against the [Stardew Valley Wiki](https://stardewvalleywiki.com/), but mistakes are possible. If something here disagrees with the wiki, trust the wiki.
