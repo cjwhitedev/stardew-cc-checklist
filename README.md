@@ -1,8 +1,15 @@
 # Stardew Valley — Year 1 Community Center Checklist
 
-Covers the **standard bundles** in version 1.6, taken from the [Bundles wiki page](https://stardewvalleywiki.com/Bundles). That's 30 bundles in 6 rooms.
+A season-by-season plan for finishing the Community Center in Year 1 of Stardew Valley 1.6, built from the [Bundles wiki page](https://stardewvalleywiki.com/Bundles). That's 30 bundles in 6 rooms.
 
-> 🥬 This save has **Guarantee Year 1 Completion** turned on, so the Traveling Cart will sell Red Cabbage Seeds on **one random visit** between Spring 7 and Winter 16 (the Night Market). The guarantee only applies to that one day, so don't skip a cart visit, and buy the seeds the first time you see them.
+## Before you start
+
+This plan assumes two settings from the **Advanced Options** when you create the save. You can't change them later.
+
+- **Community Center Bundles: Normal.** It does **not** cover [Remixed Bundles](https://stardewvalleywiki.com/Remixed_Bundles), which swap in different items.
+- **Guarantee Year 1 Completable: on.** Red Cabbage Seeds aren't sold by Pierre until Year 2. With this option on, the [Traveling Cart](https://stardewvalleywiki.com/Traveling_Cart#Guaranteed_Red_Cabbage) is guaranteed to sell them on **one random visit** between Spring 7 and Winter 16 (the Night Market). Without it, Red Cabbage in Year 1 is down to luck at the cart.
+
+> 🥬 The guarantee only applies to that one cart visit, so don't skip a Friday or Sunday, and buy the seeds the first time you see them.
 
 ## Ground rules
 
