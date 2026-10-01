@@ -139,11 +139,11 @@ Every item the bundles need is listed here once, under the earliest season you c
 
 **Foraging**
 
-- [ ] ⚠️ Wild Horseradish — Spring Foraging
-- [ ] ⚠️ Daffodil — Spring Foraging (Pierre also sells it at the Flower Dance, Spring 24)
-- [ ] ⚠️ Leek — Spring Foraging
-- [ ] ⚠️ Dandelion — Spring Foraging (also at the Flower Dance)
-- [ ] Morel — Exotic Foraging (optional)
+- [ ] ⚠️ [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish) — Spring Foraging
+- [ ] ⚠️ [Daffodil](https://stardewvalleywiki.com/Daffodil) — Spring Foraging (Pierre also sells it at the [Flower Dance](https://stardewvalleywiki.com/Flower_Dance), Spring 24)
+- [ ] ⚠️ [Leek](https://stardewvalleywiki.com/Leek) — Spring Foraging
+- [ ] ⚠️ [Dandelion](https://stardewvalleywiki.com/Dandelion) — Spring Foraging (also at the Flower Dance)
+- [ ] [Morel](https://stardewvalleywiki.com/Morel) — Exotic Foraging (optional)
 
 **Crops** (see the deadlines above)
 
@@ -153,41 +153,41 @@ Every item the bundles need is listed here once, under the earliest season you c
 - [ ] ⚠️ Potato — Spring Crops
 - [ ] 5× gold Parsnip — Quality Crops (optional, 3 of 4)
 
-**Fishing** (times and places for every bundle fish are on the [Bundles page](https://stardewvalleywiki.com/Bundles#Fish_Tank))
+**Fishing** (click a fish for where, when, and in what weather to catch it)
 
-- [ ] ⚠️ Sunfish — River (sunny days, Spring/Summer)
-- [ ] Catfish — River (rainy days)
-- [ ] Shad — River (rainy days)
-- [ ] Eel — Night Fishing (ocean, rainy evenings)
-- [ ] Sardine — Ocean
-- [ ] Carp — Lake
-- [ ] Largemouth Bass — Lake
-- [ ] Bullhead — Lake
-- [ ] Bream — Night Fishing (river, evenings)
-- [ ] Chub — Field Research
+- [ ] ⚠️ [Sunfish](https://stardewvalleywiki.com/Sunfish) — River (sunny days, Spring/Summer)
+- [ ] [Catfish](https://stardewvalleywiki.com/Catfish) — River (rainy days)
+- [ ] [Shad](https://stardewvalleywiki.com/Shad) — River (rainy days)
+- [ ] [Eel](https://stardewvalleywiki.com/Eel) — Night Fishing (ocean, rainy evenings)
+- [ ] [Sardine](https://stardewvalleywiki.com/Sardine) — Ocean
+- [ ] [Carp](https://stardewvalleywiki.com/Carp) — Lake
+- [ ] [Largemouth Bass](https://stardewvalleywiki.com/Largemouth_Bass) — Lake
+- [ ] [Bullhead](https://stardewvalleywiki.com/Bullhead) — Lake
+- [ ] [Bream](https://stardewvalleywiki.com/Bream) — Night Fishing (river, evenings)
+- [ ] [Chub](https://stardewvalleywiki.com/Chub) — Field Research
 
 **Mines and resources (keep going all year)**
 
 - [ ] Wood ×99 — Construction
 - [ ] Wood ×99 — Construction
 - [ ] Stone ×99 — Construction
-- [ ] Hardwood ×10 — Construction (large stumps need a Copper Axe)
-- [ ] Copper Bar — Blacksmith's
-- [ ] Iron Bar — Blacksmith's
-- [ ] Quartz — Geologist's
-- [ ] Earth Crystal — Geologist's
-- [ ] Ghostfish — Specialty Fish (Mine ponds on floors 20 and 60)
-- [ ] Cave Carrot — Exotic Foraging
-- [ ] Slime ×99 — Adventurer's (2 of 4)
-- [ ] Bat Wing ×10 — Adventurer's (2 of 4)
-- [ ] Cockle, Mussel, Oyster, Clam (beach forage) + Crab (Rock Crabs in the Mines) — Crab Pot (5 of 10, no crab pot needed)
+- [ ] [Hardwood](https://stardewvalleywiki.com/Hardwood) ×10 — Construction (large stumps need a Copper Axe)
+- [ ] [Copper Bar](https://stardewvalleywiki.com/Copper_Bar) — Blacksmith's
+- [ ] [Iron Bar](https://stardewvalleywiki.com/Iron_Bar) — Blacksmith's
+- [ ] [Quartz](https://stardewvalleywiki.com/Quartz) — Geologist's
+- [ ] [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) — Geologist's
+- [ ] [Ghostfish](https://stardewvalleywiki.com/Ghostfish) — Specialty Fish (Mine ponds on floors 20 and 60)
+- [ ] [Cave Carrot](https://stardewvalleywiki.com/Cave_Carrot) — Exotic Foraging
+- [ ] [Slime](https://stardewvalleywiki.com/Slime) ×99 — Adventurer's (2 of 4)
+- [ ] [Bat Wing](https://stardewvalleywiki.com/Bat_Wing) ×10 — Adventurer's (2 of 4)
+- [ ] [Cockle](https://stardewvalleywiki.com/Cockle), [Mussel](https://stardewvalleywiki.com/Mussel), [Oyster](https://stardewvalleywiki.com/Oyster), [Clam](https://stardewvalleywiki.com/Clam) (beach forage) + [Crab](https://stardewvalleywiki.com/Crab) (from [Rock Crabs](https://stardewvalleywiki.com/Rock_Crab), Mine floors 1–29) — Crab Pot (5 of 10, no crab pot needed)
 
 **Setup**
 
 - [ ] Reach **Foraging 4** by chopping trees, then craft [Tappers](https://stardewvalleywiki.com/Tapper) for a **Maple**, an **Oak**, and a **Pine** tree
-- [ ] Maple Syrup ×2 — Chef's + Exotic Foraging
-- [ ] Oak Resin ×2 — Enchanter's + Exotic Foraging
-- [ ] Pine Tar — Exotic Foraging
+- [ ] [Maple Syrup](https://stardewvalleywiki.com/Maple_Syrup) ×2 — Chef's + Exotic Foraging
+- [ ] [Oak Resin](https://stardewvalleywiki.com/Oak_Resin) ×2 — Enchanter's + Exotic Foraging
+- [ ] [Pine Tar](https://stardewvalleywiki.com/Pine_Tar) — Exotic Foraging
 - [ ] Copper Axe, then Steel Axe, before Summer 1
 - [ ] Coop and chickens
 
@@ -202,12 +202,12 @@ Every item the bundles need is listed here once, under the earliest season you c
 
 **Foraging**
 
-- [ ] ⚠️ Grape — Summer Foraging
-- [ ] ⚠️ Spice Berry — Summer Foraging
-- [ ] ⚠️ Sweet Pea — Summer Foraging
-- [ ] ⚠️ **Fiddlehead Fern — Chef's** (Secret Woods in Summer)
-- [ ] Red Mushroom ×2 — Dye + Exotic (optional)
-- [ ] Sea Urchin — Dye (east beach after the 300-wood bridge)
+- [ ] ⚠️ [Grape](https://stardewvalleywiki.com/Grape) — Summer Foraging
+- [ ] ⚠️ [Spice Berry](https://stardewvalleywiki.com/Spice_Berry) — Summer Foraging
+- [ ] ⚠️ [Sweet Pea](https://stardewvalleywiki.com/Sweet_Pea) — Summer Foraging
+- [ ] ⚠️ **[Fiddlehead Fern](https://stardewvalleywiki.com/Fiddlehead_Fern) — Chef's** ([Secret Woods](https://stardewvalleywiki.com/Secret_Woods) in Summer)
+- [ ] [Red Mushroom](https://stardewvalleywiki.com/Red_Mushroom) ×2 — Dye + Exotic (optional)
+- [ ] [Sea Urchin](https://stardewvalleywiki.com/Sea_Urchin) — Dye (east beach after the 300-wood bridge)
 
 **Crops**
 
@@ -225,21 +225,21 @@ Every item the bundles need is listed here once, under the earliest season you c
 
 **Fishing**
 
-- [ ] ⚠️ **Pufferfish — Specialty** (ocean, 12pm–4pm, sunny Summer days only)
-- [ ] Tuna — Ocean
-- [ ] Red Snapper — Ocean (rainy days)
-- [ ] Tilapia — Ocean (mornings)
-- [ ] Sturgeon — Lake
-- [ ] Woodskip — Specialty (Secret Woods)
+- [ ] ⚠️ **[Pufferfish](https://stardewvalleywiki.com/Pufferfish) — Specialty** (ocean, 12pm–4pm, sunny Summer days only)
+- [ ] [Tuna](https://stardewvalleywiki.com/Tuna) — Ocean
+- [ ] [Red Snapper](https://stardewvalleywiki.com/Red_Snapper) — Ocean (rainy days)
+- [ ] [Tilapia](https://stardewvalleywiki.com/Tilapia) — Ocean (6am–2pm)
+- [ ] [Sturgeon](https://stardewvalleywiki.com/Sturgeon) — Lake
+- [ ] [Woodskip](https://stardewvalleywiki.com/Woodskip) — Specialty (Secret Woods)
 
 **Animals, artisan goods, and the Mines**
 
 - [ ] [Bee House](https://stardewvalleywiki.com/Bee_House) (Farming 3) → Honey — Artisan. **Bee Houses don't work in Winter**
 - [ ] [Preserves Jar](https://stardewvalleywiki.com/Preserves_Jar) (Farming 4) → Jelly — Artisan
 - [ ] Big Coop + ducks, Barn + cow, Big Barn + goat
-- [ ] Frozen Tear — Geologist's
-- [ ] Frozen Geode — Field Research
-- [ ] Aquamarine — Dye
+- [ ] [Frozen Tear](https://stardewvalleywiki.com/Frozen_Tear) — Geologist's
+- [ ] [Frozen Geode](https://stardewvalleywiki.com/Frozen_Geode) — Field Research
+- [ ] [Aquamarine](https://stardewvalleywiki.com/Aquamarine) — Dye
 
 **💰 Money (spend ≈ 56,000g: saplings, Big Coop, Barn, Milk Pail, Big Barn, animals, house upgrade)**
 
@@ -252,11 +252,11 @@ Every item the bundles need is listed here once, under the earliest season you c
 
 **Foraging**
 
-- [ ] ⚠️ Common Mushroom — Fall Foraging
-- [ ] ⚠️ Wild Plum — Fall Foraging
-- [ ] ⚠️ Hazelnut — Fall Foraging
-- [ ] ⚠️ Blackberry — Fall Foraging (bushes are full Fall 8–11)
-- [ ] Purple Mushroom ×2 — Field Research + Exotic (optional)
+- [ ] ⚠️ [Common Mushroom](https://stardewvalleywiki.com/Common_Mushroom) — Fall Foraging
+- [ ] ⚠️ [Wild Plum](https://stardewvalleywiki.com/Wild_Plum) — Fall Foraging
+- [ ] ⚠️ [Hazelnut](https://stardewvalleywiki.com/Hazelnut) — Fall Foraging
+- [ ] ⚠️ [Blackberry](https://stardewvalleywiki.com/Blackberry) — Fall Foraging (bushes are full Fall 8–11)
+- [ ] [Purple Mushroom](https://stardewvalleywiki.com/Purple_Mushroom) ×2 — Field Research + Exotic (optional)
 
 **Crops**
 
@@ -266,36 +266,36 @@ Every item the bundles need is listed here once, under the earliest season you c
 - [ ] ⚠️ Yam — Fall Crops
 - [ ] 5× gold Corn — Quality Crops
 - [ ] 5× gold Pumpkin — Quality Crops
-- [ ] Apple ×3 (+1 for Artisan) — Fodder
-- [ ] Pomegranate (+1 for Artisan) — Enchanter's
+- [ ] [Apple](https://stardewvalleywiki.com/Apple) ×3 (+1 for Artisan) — Fodder
+- [ ] [Pomegranate](https://stardewvalleywiki.com/Pomegranate) (+1 for Artisan) — Enchanter's
 - [ ] Sunflower and Wheat, if you don't have them yet (last chance outdoors)
 
 **Fishing**
 
-- [ ] ⚠️ **Walleye — Night Fishing** (**rainy Fall days only**, from noon. Fish every rainy Fall day until you get one; the Traveling Cart is the only backup)
-- [ ] Tiger Trout — River
+- [ ] ⚠️ **[Walleye](https://stardewvalleywiki.com/Walleye) — Night Fishing** (**rainy Fall days only**, from noon. Fish every rainy Fall day until you get one; the Traveling Cart is the only backup)
+- [ ] [Tiger Trout](https://stardewvalleywiki.com/Tiger_Trout) — River
 - [ ] Last chance in Year 1 for Catfish, Shad, Eel, Red Snapper, Tilapia, and Carp in the lake
 
 **Animals, artisan goods, and the Mines**
 
-- [ ] **Deluxe Barn + pig by about Fall 10** → ⚠️ **Truffle — Chef's** (pigs don't find any in rain or Winter, and truffles left on the ground on Fall 28 disappear)
-- [ ] Large Egg (white) — Animal
-- [ ] Large Egg (brown) — Animal
-- [ ] Duck Egg — Animal
-- [ ] Large Milk — Animal
-- [ ] Large Goat Milk — Animal (5 of 6)
-- [ ] Duck Feather — Dye
-- [ ] Rabbit's Foot — Enchanter's (rabbits or the Traveling Cart)
-- [ ] Cheese — Artisan ([Cheese Press](https://stardewvalleywiki.com/Cheese_Press): Farming 6 or the Animal bundle reward)
-- [ ] Goat Cheese — Artisan
-- [ ] Honey (before Winter) — Artisan
-- [ ] Jelly — Artisan
+- [ ] **Deluxe Barn + pig by about Fall 10** → ⚠️ **[Truffle](https://stardewvalleywiki.com/Truffle) — Chef's** (pigs don't find any in rain or Winter, and truffles left on the ground on Fall 28 disappear)
+- [ ] [Large Egg](https://stardewvalleywiki.com/Large_Egg) (white) — Animal
+- [ ] [Large Brown Egg](https://stardewvalleywiki.com/Large_Brown_Egg) — Animal
+- [ ] [Duck Egg](https://stardewvalleywiki.com/Duck_Egg) — Animal
+- [ ] [Large Milk](https://stardewvalleywiki.com/Large_Milk) — Animal
+- [ ] [Large Goat Milk](https://stardewvalleywiki.com/Large_Goat_Milk) — Animal (5 of 6)
+- [ ] [Duck Feather](https://stardewvalleywiki.com/Duck_Feather) — Dye
+- [ ] [Rabbit's Foot](https://stardewvalleywiki.com/Rabbit%27s_Foot) — Enchanter's (rabbits or the Traveling Cart)
+- [ ] [Cheese](https://stardewvalleywiki.com/Cheese) — Artisan ([Cheese Press](https://stardewvalleywiki.com/Cheese_Press): Farming 6 or the Animal bundle reward)
+- [ ] [Goat Cheese](https://stardewvalleywiki.com/Goat_Cheese) — Artisan
+- [ ] [Honey](https://stardewvalleywiki.com/Honey) (before Winter) — Artisan
+- [ ] [Jelly](https://stardewvalleywiki.com/Jellies_and_Pickles) — Artisan
 - [ ] Apple + Pomegranate for Artisan (on top of the ones for Fodder and Enchanter's)
-- [ ] [Keg](https://stardewvalleywiki.com/Keg) (Farming 8 or the Artisan bundle reward) → **Wine — Enchanter's** (takes about a week)
-- [ ] Gold Bar — Blacksmith's (Gold Ore on floors 80+)
-- [ ] Fire Quartz — Geologist's
-- [ ] Hay ×10 — Fodder (Marnie's)
-- [ ] Kitchen (house upgrade) → **Fried Egg — Chef's**
+- [ ] [Keg](https://stardewvalleywiki.com/Keg) (Farming 8 or the Artisan bundle reward) → **[Wine](https://stardewvalleywiki.com/Wine) — Enchanter's** (takes about a week)
+- [ ] [Gold Bar](https://stardewvalleywiki.com/Gold_Bar) — Blacksmith's (Gold Ore on floors 80+)
+- [ ] [Fire Quartz](https://stardewvalleywiki.com/Fire_Quartz) — Geologist's
+- [ ] [Hay](https://stardewvalleywiki.com/Hay) ×10 — Fodder (Marnie's)
+- [ ] Kitchen (house upgrade) → **[Fried Egg](https://stardewvalleywiki.com/Fried_Egg) — Chef's**
 - [ ] [Maki Roll](https://stardewvalleywiki.com/Maki_Roll) — Chef's (recipe from Gus or The Queen of Sauce on Summer 21)
 
 **💰 Money (spend ≈ 69,000g: Deluxe Barn, pig, Deluxe Coop, rabbit)**
@@ -311,11 +311,11 @@ Every item the bundles need is listed here once, under the earliest season you c
 
 **Foraging**
 
-- [ ] ⚠️ Winter Root — Winter Foraging (till soil or dig artifact spots)
-- [ ] ⚠️ Crystal Fruit — Winter Foraging
-- [ ] ⚠️ Snow Yam — Winter Foraging (till soil or dig artifact spots)
-- [ ] ⚠️ Crocus — Winter Foraging
-- [ ] Nautilus Shell — Field Research (beach in Winter; it is **not** the Nautilus Fossil)
+- [ ] ⚠️ [Winter Root](https://stardewvalleywiki.com/Winter_Root) — Winter Foraging (till soil or dig artifact spots)
+- [ ] ⚠️ [Crystal Fruit](https://stardewvalleywiki.com/Crystal_Fruit) — Winter Foraging
+- [ ] ⚠️ [Snow Yam](https://stardewvalleywiki.com/Snow_Yam) — Winter Foraging (till soil or dig artifact spots)
+- [ ] ⚠️ [Crocus](https://stardewvalleywiki.com/Crocus) — Winter Foraging
+- [ ] [Nautilus Shell](https://stardewvalleywiki.com/Nautilus_Shell) — Field Research (beach in Winter; it is **not** the Nautilus Fossil)
 
 **Vault**
 
@@ -326,12 +326,12 @@ Every item the bundles need is listed here once, under the earliest season you c
 
 **After the Vault: take the bus to the Desert**
 
-- [ ] **Sandfish — Specialty** (Desert pond)
-- [ ] Coconut / Cactus Fruit — Exotic (optional)
+- [ ] **[Sandfish](https://stardewvalleywiki.com/Sandfish) — Specialty** (Desert pond)
+- [ ] [Coconut](https://stardewvalleywiki.com/Coconut) / [Cactus Fruit](https://stardewvalleywiki.com/Cactus_Fruit) — Exotic (optional)
 
 **Catch-up**
 
-- [ ] Fish you can still catch: Tiger Trout, Sturgeon, Tuna, Sardine, Bream, Largemouth Bass, Bullhead, Chub, Ghostfish, Woodskip, Carp (Secret Woods or Sewer)
+- [ ] Fish you can still catch: Tiger Trout, Sturgeon, Tuna, Sardine, Bream, Largemouth Bass, Bullhead, Chub, Ghostfish, Woodskip, Carp (Secret Woods pond)
 - [ ] Greenhouse (after the Pantry) for any missing Red Cabbage, Poppy, Sunflower, or Wheat
 - [ ] Wine in the Keg, if you haven't made it yet
 
